@@ -1,6 +1,6 @@
 {
-    "cmake.buildDirectory": "${workspaceFolder}/build/group_name",
-    "cmake.sourceDirectory": "${workspaceFolder}/src/group_name",
+    "cmake.buildDirectory": "${workspaceFolder}/build/47_CgetDegrees",
+    "cmake.sourceDirectory": "${workspaceFolder}/src/47_CgetDegrees",
     "cmake.useCMakePresets": "never",
     "C_Cpp.errorSquiggles": "disabled",
     "files.associations": {
